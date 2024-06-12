@@ -29,4 +29,4 @@ end
 AddCallback("OnInputUpdate", OnInputUpdate)
 AddCallback("OnInterfacePaint", OnPaint)
 
-LoadScript("Demo.lua")
+--LoadScript("Demo.lua")
